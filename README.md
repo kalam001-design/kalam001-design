@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Kalam Ahmmed 👋
 
-<!--
-**kalam001-design/kalam001-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate **MERN-Stack Developer** based in Bangladesh. I love building scalable and efficient web applications using modern technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning **JavaScript** and **MYSQL**
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**
+- 📫 How to reach me: 0057kalamahmmed@gmail.com
+- ⚡ Fun fact: I love solving problems and listening to music while coding 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+| Frontend            | Backend           | Database        | Tools & Platforms     |
+|---------------------|-------------------|-----------------|----------------------|
+| React, Redux        | Node.js, Express  | MongoDB, MySQL  | Git, GitHub, VS Code |
+| HTML, CSS, Bootstrap| REST APIs         | PostgreSQL      | Docker, Postman      |
+| JavaScript, TypeScript | JWT, OAuth       |                 |                      |
+
+---
+
+### 📫 Contact Me
+
+- Email: 0057kalamahmmed@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/kalam-ahmmed/)  
+  
+
+Thanks for visiting my profile! 🙏  
+Feel free to connect and collaborate! 🚀
